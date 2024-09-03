@@ -1,0 +1,68 @@
+.verifier-container {
+  max-width: 70%;
+  margin-left: 20px;
+}
+
+.icon-container {
+margin-bottom: 10px;
+}
+
+.cards {
+  display: flex;
+  align-items: center;
+  list-style-type: none;
+}
+
+.icon-payment {
+  margin: 2px;
+  width: 40px;
+  height: 25px;
+  opacity: 0.3;
+}
+
+.checked {
+outline: 2px solid rgb(30, 229, 213);
+opacity: 1;
+}
+
+.validate-result {
+color: #3ad0cd;
+font-size: 16px;
+margin-top: 10px;
+}
+
+.widget-input {
+width: 50%;
+height: 20px;
+}
+
+.button {
+  background-color: #3ad0cd;
+  padding: 5px;
+  margin-left: 2px;
+  border: none;
+  border-radius: 4px;
+  color: #ffffff;
+}
+
+/* .visa {
+  background-image: url(../img/visa-curved.png);
+}
+.mastercard {
+  background-image: url(../img/mastercard-curved.png);
+}
+.american-express {
+  background-image: url(../img/american-express-straight.png);
+}
+.mir {
+  background-image: url(../img/icons8-mir-96.png);
+}
+.jcb {
+  background-image: url(../img/jcb.png);
+}
+.diners {
+  background-image: url(../img/diners-club.png);
+}
+.discover {
+  background-image: url(../img/discover-straight.png);
+} */
